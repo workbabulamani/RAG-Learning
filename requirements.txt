@@ -19,3 +19,4 @@ jq
 matplotlib
 # Embeddings
 langchain-huggingface
+langchain-classic
