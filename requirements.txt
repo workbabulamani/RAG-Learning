@@ -20,3 +20,9 @@ matplotlib
 # Embeddings
 langchain-huggingface
 langchain-classic
+huggingface-hub
+datasets
+transformers
+packaging
+requests
+urllib3
