@@ -10,7 +10,10 @@ dependencies = [
     "docx2txt>=0.9",
     "faiss-cpu>=1.13.0",
     "huggingface-hub>=0.36.0",
+<<<<<<< HEAD
     "ipywidgets>=8.1.8",
+=======
+>>>>>>> f64f82547c670b662c90e110751adb6f33f172de
     "jq>=1.10.0",
     "langchain>=1.0.8",
     "langchain-classic>=1.0.0",
