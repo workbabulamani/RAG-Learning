@@ -26,3 +26,4 @@ transformers
 packaging
 requests
 urllib3
+langchain-pinecone
