@@ -27,3 +27,4 @@ packaging
 requests
 urllib3
 langchain-pinecone
+langchain-experimental
