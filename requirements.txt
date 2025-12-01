@@ -28,3 +28,4 @@ requests
 urllib3
 langchain-pinecone
 langchain-experimental
+rank_bm25
